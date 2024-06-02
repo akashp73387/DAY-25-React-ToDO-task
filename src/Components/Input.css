@@ -1,0 +1,309 @@
+body {
+  background-image: linear-gradient(
+      200deg,
+      rgba(213, 213, 213, 0.01) 0%,
+      rgba(213, 213, 213, 0.01) 14.286%,
+      rgba(140, 140, 140, 0.01) 14.286%,
+      rgba(140, 140, 140, 0.01) 28.572%,
+      rgba(52, 52, 52, 0.01) 28.572%,
+      rgba(52, 52, 52, 0.01) 42.858%,
+      rgba(38, 38, 38, 0.01) 42.858%,
+      rgba(38, 38, 38, 0.01) 57.144%,
+      rgba(159, 159, 159, 0.01) 57.144%,
+      rgba(159, 159, 159, 0.01) 71.42999999999999%,
+      rgba(71, 71, 71, 0.01) 71.43%,
+      rgba(71, 71, 71, 0.01) 85.71600000000001%,
+      rgba(88, 88, 88, 0.01) 85.716%,
+      rgba(88, 88, 88, 0.01) 100.002%
+    ),
+    linear-gradient(
+      337deg,
+      rgba(25, 25, 25, 0.01) 0%,
+      rgba(25, 25, 25, 0.01) 12.5%,
+      rgba(150, 150, 150, 0.01) 12.5%,
+      rgba(150, 150, 150, 0.01) 25%,
+      rgba(84, 84, 84, 0.01) 25%,
+      rgba(84, 84, 84, 0.01) 37.5%,
+      rgba(85, 85, 85, 0.01) 37.5%,
+      rgba(85, 85, 85, 0.01) 50%,
+      rgba(188, 188, 188, 0.01) 50%,
+      rgba(188, 188, 188, 0.01) 62.5%,
+      rgba(80, 80, 80, 0.01) 62.5%,
+      rgba(80, 80, 80, 0.01) 75%,
+      rgba(73, 73, 73, 0.01) 75%,
+      rgba(73, 73, 73, 0.01) 87.5%,
+      rgba(219, 219, 219, 0.01) 87.5%,
+      rgba(219, 219, 219, 0.01) 100%
+    ),
+    linear-gradient(
+      203deg,
+      rgba(233, 233, 233, 0.01) 0%,
+      rgba(233, 233, 233, 0.01) 25%,
+      rgba(114, 114, 114, 0.01) 25%,
+      rgba(114, 114, 114, 0.01) 50%,
+      rgba(164, 164, 164, 0.01) 50%,
+      rgba(164, 164, 164, 0.01) 75%,
+      rgba(228, 228, 228, 0.01) 75%,
+      rgba(228, 228, 228, 0.01) 100%
+    ),
+    linear-gradient(
+      317deg,
+      rgba(139, 139, 139, 0.02) 0%,
+      rgba(139, 139, 139, 0.02) 16.667%,
+      rgba(44, 44, 44, 0.02) 16.667%,
+      rgba(44, 44, 44, 0.02) 33.334%,
+      rgba(166, 166, 166, 0.02) 33.334%,
+      rgba(166, 166, 166, 0.02) 50.001000000000005%,
+      rgba(2, 2, 2, 0.02) 50.001%,
+      rgba(2, 2, 2, 0.02) 66.668%,
+      rgba(23, 23, 23, 0.02) 66.668%,
+      rgba(23, 23, 23, 0.02) 83.33500000000001%,
+      rgba(21, 21, 21, 0.02) 83.335%,
+      rgba(21, 21, 21, 0.02) 100.002%
+    ),
+    linear-gradient(
+      328deg,
+      rgba(3, 3, 3, 0.03) 0%,
+      rgba(3, 3, 3, 0.03) 12.5%,
+      rgba(116, 116, 116, 0.03) 12.5%,
+      rgba(116, 116, 116, 0.03) 25%,
+      rgba(214, 214, 214, 0.03) 25%,
+      rgba(214, 214, 214, 0.03) 37.5%,
+      rgba(217, 217, 217, 0.03) 37.5%,
+      rgba(217, 217, 217, 0.03) 50%,
+      rgba(68, 68, 68, 0.03) 50%,
+      rgba(68, 68, 68, 0.03) 62.5%,
+      rgba(118, 118, 118, 0.03) 62.5%,
+      rgba(118, 118, 118, 0.03) 75%,
+      rgba(200, 200, 200, 0.03) 75%,
+      rgba(200, 200, 200, 0.03) 87.5%,
+      rgba(198, 198, 198, 0.03) 87.5%,
+      rgba(198, 198, 198, 0.03) 100%
+    ),
+    linear-gradient(
+      97deg,
+      rgba(195, 195, 195, 0.03) 0%,
+      rgba(195, 195, 195, 0.03) 16.667%,
+      rgba(177, 177, 177, 0.03) 16.667%,
+      rgba(177, 177, 177, 0.03) 33.334%,
+      rgba(170, 170, 170, 0.03) 33.334%,
+      rgba(170, 170, 170, 0.03) 50.001000000000005%,
+      rgba(158, 158, 158, 0.03) 50.001%,
+      rgba(158, 158, 158, 0.03) 66.668%,
+      rgba(121, 121, 121, 0.03) 66.668%,
+      rgba(121, 121, 121, 0.03) 83.33500000000001%,
+      rgba(146, 146, 146, 0.03) 83.335%,
+      rgba(146, 146, 146, 0.03) 100.002%
+    ),
+    linear-gradient(
+      268deg,
+      rgba(103, 103, 103, 0.03) 0%,
+      rgba(103, 103, 103, 0.03) 25%,
+      rgba(112, 112, 112, 0.03) 25%,
+      rgba(112, 112, 112, 0.03) 50%,
+      rgba(4, 4, 4, 0.03) 50%,
+      rgba(4, 4, 4, 0.03) 75%,
+      rgba(227, 227, 227, 0.03) 75%,
+      rgba(227, 227, 227, 0.03) 100%
+    ),
+    linear-gradient(90deg, hsl(98, 0%, 0%), hsl(98, 0%, 0%));
+}
+
+h1 {
+  color: rgb(142, 20, 203);
+  text-align: center;
+  text-shadow: 5px 5px 10px rgb(142, 20, 203);
+}
+
+.input-container {
+  max-width: 100% !important;
+  box-shadow: 0px 5px 10px aquamarine;
+}
+.btn {
+  border-radius: 40px !important;
+  width: 150px !important;
+  height: 50px !important;
+  margin-top: 10px;
+  padding: 10px 20px;
+  /* background-color: rgb(15, 105, 75); */
+  color: white;
+  cursor: pointer;
+}
+input {
+  margin: 10px !important;
+  padding: 10px !important;
+  border-radius: 20px;
+  font-size: 18px;
+}
+.text {
+  font-size: 25px;
+  color: orangered !important;
+}
+
+.card-para {
+  margin: 5px 0;
+  max-height: 100px;
+  overflow: inherit;
+}
+
+.options-class {
+  display: flex;
+  justify-content:space-around !important;
+  align-items: center;
+  margin: 20px;
+  margin-top: 40px !important;
+  margin-left: 20px !important;
+}
+
+.options-class p {
+  color: black;
+  margin: 0;
+}
+
+.options-class select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  background-color: rgb(60, 62, 62);
+  color: whitesmoke;
+  text-align: center;
+  font-size: medium;
+}
+
+.todo-item {
+  width: 500px;
+  height: 300px;
+  background-color: rgb(20, 203, 142);
+  color: white;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.todo-item h3 {
+  margin-top: 0;
+}
+
+.todo-item p {
+  margin: 5px 0;
+}
+
+.todo-item select {
+  padding: 5px;
+}
+
+.todo-item button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.todo-item button.edit {
+  background-color: rgb(0, 66, 128);
+  color: white;
+}
+
+.card {
+  background: rgb(11, 11, 11);
+  background-image: linear-gradient(
+      135deg,
+      rgba(159, 159, 159, 0.46) 0%,
+      rgba(159, 159, 159, 0.46) 14.286%,
+      rgba(165, 165, 165, 0.46) 14.286%,
+      rgba(165, 165, 165, 0.46) 28.572%,
+      rgba(171, 171, 171, 0.46) 28.572%,
+      rgba(171, 171, 171, 0.46) 42.858%,
+      rgba(178, 178, 178, 0.46) 42.858%,
+      rgba(178, 178, 178, 0.46) 57.144%,
+      rgba(184, 184, 184, 0.46) 57.144%,
+      rgba(184, 184, 184, 0.46) 71.43%,
+      rgba(190, 190, 190, 0.46) 71.43%,
+      rgba(190, 190, 190, 0.46) 85.716%,
+      rgba(196, 196, 196, 0.46) 85.716%,
+      rgba(196, 196, 196, 0.46) 100.002%
+    ),
+    linear-gradient(
+      45deg,
+      rgb(252, 252, 252) 0%,
+      rgb(252, 252, 252) 14.286%,
+      rgb(246, 246, 246) 14.286%,
+      rgb(246, 246, 246) 28.572%,
+      rgb(241, 241, 241) 28.572%,
+      rgb(241, 241, 241) 42.858%,
+      rgb(235, 235, 235) 42.858%,
+      rgb(235, 235, 235) 57.144%,
+      rgb(229, 229, 229) 57.144%,
+      rgb(229, 229, 229) 71.43%,
+      rgb(224, 224, 224) 71.43%,
+      rgb(224, 224, 224) 85.716%,
+      rgb(218, 218, 218) 85.716%,
+      rgb(218, 218, 218) 100.002%
+    );
+  border: 0px solid grey;
+  margin: 10px !important;
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: start;
+  color: rgb(37, 34, 30);
+  
+}
+.slect-status {
+  /* display: inline-block; */
+  height: 40px;
+  width: 150px;
+  position: relative;
+  left: 80px;
+  bottom: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.delete-button {
+  color: "white";
+  height: 30px;
+  width: 100px;
+  margin: 10px;
+  background-color: rgb(237, 59, 59);
+  position: relative;
+  bottom: 80px;
+  left: 110px;
+  border-radius: 10px;
+}
+
+.edit-button {
+  color: "white";
+  height: 30px;
+  width: 100px;
+  margin: 10px;
+  background-color: green;
+  border-radius: 10px;
+  position: relative;
+  bottom: 30px;
+}
+
+.completed .slect-status {
+  background-color: lightgreen;
+}
+
+.not-completed .slect-status {
+  background-color: lightcoral;
+}
+.details{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.update-status{
+  border-radius: 20px;
+  height: 40px;
+}
+.update-btn{
+  margin-left: 20px !important ;
+  margin-top: -2px;
+  margin-bottom: 10px;
+}
